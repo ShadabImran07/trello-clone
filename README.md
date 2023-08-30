@@ -1,7 +1,7 @@
 # Trello Clone for Task Management
 
 <img
-  src="https://ibb.co/Drr1qXv"
+  src="./Screenshot 2023-08-30 165414.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
