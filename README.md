@@ -1,6 +1,6 @@
 # Trello Clone for Task Management
 
-![Trello Clone](https://pasteboard.co/9bOD7tmpxoKB.png)
+![Trello Clone]('https://pasteboard.co/9bOD7tmpxoKB.png')
 
 A Trello clone built using Next.js, TypeScript, Appwrite, and drag-and-drop functionality. This project also integrates ChatGPT for generating task summaries.
 
